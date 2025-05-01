@@ -1,4 +1,4 @@
-# Labortaory 2
+# Laboratory 2
 [LABORATORY 2.pdf](https://github.com/user-attachments/files/20000188/LABORATORY.2.pdf)
 
 ![Screenshot 2025-05-01 213038](https://github.com/user-attachments/assets/5063c7d7-a9bf-4c80-98e7-d5097cabb830)
